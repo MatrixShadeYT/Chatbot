@@ -1,0 +1,1 @@
+cd ..; rm .\Chatbot -Recurse -Force; git clone https://github.com/MatrixShadeYT/Chatbot.git; cd .\Chatbot; clear;
